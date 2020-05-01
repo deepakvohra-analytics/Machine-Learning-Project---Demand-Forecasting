@@ -1,8 +1,5 @@
-# Bimbo Python XGBoost 5 week Lag Python script adapted from R
-# Rodolfo Lomascolo e-mail: r.lomascolo@rodolfolomascolo.com
-# Adapted from code by Bohdan Pavlyshenko  http://tinyurl.com/jd6k2kr
-# All credits for Bohdan Pavlyshenko and all bugs to me.
-#
+# Bimbo Python XGBoost 5 week Lag Python script
+
 # Due to heavy usage of memory, this script will not run in kaggle.
 # the script runs only with a minimum of 35GB of physical or physical+swap memory
 # it can take a couple of hours to train depending on your machine, disk and memory
